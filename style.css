@@ -1,7 +1,13 @@
 body{
 text-align:center;
 font-size: 24px;
-font-family: "Helvetica neue";
-color: black;
-background-color: #ececea;
+font-family: "Times New Roman";
+color: white;
+background-color: #8696a7;
+}
+#welcomeSentence{
+text-align:center;
+font-size: 48px;
+font-family: "Times New Roman";
+color: #c9c0d3;
 }
